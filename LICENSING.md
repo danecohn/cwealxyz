@@ -35,7 +35,7 @@ independent document or other output under the GPL.
 Previously granted GPLv3, CC BY-SA 4.0 and SIL OFL 1.1 permissions remain
 valid for the material they cover. Existing music files may carry CC BY-SA
 notices and existing Guild font files carry OFL notices. Preserve those
-notices and associated rights; the [OFL text](assets/font/OFL.txt) remains
+notices and associated rights; the [OFL text](public/assets/font/OFL.txt) remains
 for those releases. The GPLv3 grant is an additional option for original
 material whose copyright holders authorize it, not a revocation of earlier
 grants. Future regeneration uses the GPLv3 notice in the source generators.
